@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.IMG {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.images {
+  max-width: 400px;
+  overflow: hidden;
+  display: grid;
+}
+
+#submit {
+  background-color: gray;
+  color: white;
+  border-radius: 5px;
+  border: solid black;
+}
