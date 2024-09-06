@@ -26,6 +26,20 @@ body {
 #submit {
   background-color: gray;
   color: white;
-  border-radius: 5px;
+  border-radius: 10px;
   border: solid black;
+  padding: 5px;
+  cursor: pointer;
 }
+
+.margin {
+  margin-left: 10vw;
+  margin-top: 20px;
+}
+
+#city {
+  border-radius: 5px;
+  padding: 4px;
+}
+
+.inp {}
